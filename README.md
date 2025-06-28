@@ -8,7 +8,7 @@ This repository contains a collection of interactive front-end projects built as
 - **Product Landing Page** – A responsive marketing page with navigation and media.
 - **Technical Documentation Page** – A multi-section layout with smooth scrolling.
 - **Tribute Page** – A simple, elegant tribute with semantic HTML.
--**Personal portfolio webpage added after completing the course.
+- **Personal portfolio webpage** added after completing the course.
 
 ## 🚀 Live Preview
 
